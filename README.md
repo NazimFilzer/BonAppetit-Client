@@ -22,8 +22,12 @@
 
 
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
+ <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://labs.openai.com/s/150JZ70o98gYxgHRbOrbW93A" alt="Logo" width="80" height="80">
+  </a>
  
 
   <h1 align="center">Bon Appetit</h1>
@@ -32,7 +36,7 @@
   <p align="center">
     An platform for the good-hearted!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://bonappletea.netlify.app/"><strong>Visit Our Website! »</strong></a>
     <br />
     <br />
     <a href="https://bonappletea.netlify.app/">View Website</a>
@@ -76,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 Did you know that about 40 % of the food produced in India is wasted?
 Despite adequate food production, the UN has reported that about 190 million Indians remain undernourished. It is further estimated that the
 value of food wastage in India is around ₹92,000 crores per annum.
@@ -87,6 +91,17 @@ in front of us may be monumental, some steps need to be taken sooner than others
 This is why, we came up with the idea of  Bon Appetit.
 
 Bon Appetit is a platform where the users can connect with non-profits for food donation purposes.
+We have found out that there are so many good hearted people out there who are willing to contribute food to the ones in need.
+Some of the problems they face are 
+* They do not know who to donate to
+* Transport is an issue
+* Trying to contact NGO's.
+
+Our platform aims to solve these issues by providing accounts for the Organizations and the volunteers.
+Volunteers can post the amount of food they have and their location and the Organizations can accept the donation.
+
+
+
 
 
 
@@ -101,7 +116,7 @@ Bon Appetit is a platform where the users can connect with non-profits for food 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-* [![React][React.js]][React-url]
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
