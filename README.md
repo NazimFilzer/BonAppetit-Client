@@ -43,7 +43,7 @@
     ·
     <a href="https://github.com/jamaljm/BonAppetit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/jamaljm/BonAppetit/issues">Request Feature</a>
   </p>
 </div>
 
@@ -118,7 +118,7 @@ Volunteers can post the amount of food they have and their location and the Orga
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
+img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,13 +143,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Picture Uploading Features
-- [x] Add Email Confirmation
+- [ ] Add Picture Uploading Features
+- [ ] Add Email Confirmation
 - [ ] Add Mobile View
 - [ ] 
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
