@@ -126,10 +126,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Add Picture Uploading Features
+- [x] Add Email Confirmation
+- [ ] Add Mobile View
+- [ ] 
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
@@ -147,31 +147,18 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTACT -->
 ## Contact
 
-Nazim - [@your_twitter](https://twitter.com/your_username) - email@example.com
-Jamal  - [@your_twitter](https://twitter.com/your_username) - email@example.com
-Allen - [@your_twitter](https://twitter.com/your_username) - email@example.com
-Jozef - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Nazim - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
+Jamal  - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
+Allen - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
+Jozef - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/jamaljm/BonAppetit](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
