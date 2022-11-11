@@ -118,7 +118,7 @@ Volunteers can post the amount of food they have and their location and the Orga
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,13 +130,6 @@ img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mo
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -162,10 +155,10 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTACT -->
 ## Contact
 
-Nazim - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
-Jamal  - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
-Allen - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
-Jozef - [@your_twitter](https://twitter.com/your_username) - email@example.com <br>
+Nazim - [@NzM](https://github.com/NZM) - nazimfilzer@gmail.com <br>
+Jamal  - [@jamaljm](https://github.com/jamaljm) - jamalvga2002@gmail.com <br>
+Allen - [@alapanoski](https://github.com/alapanoski) - allenshibu@gmail.com <br>
+Jozef - [@jzf21](https://github.com/jzf21) - jozefneelamkavil2003@gmail.com <br>
 
 Project Link: [https://github.com/jamaljm/BonAppetit](https://github.com/your_username/repo_name)
 
